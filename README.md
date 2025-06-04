@@ -1,9 +1,9 @@
 
 더블 보더 레디어스 애니메이션 (Double Border-Radius Animation)
-🚀 프로젝트 소개
-이 프로젝트는 CSS의 border-radius 속성을 불규칙하게 사용하여 독특하고 유기적인 모양을 만듭니다. 여기에 애니메이션과 호버(hover) 효과를 적용하여 동적인 디자인을 구현한 웹 페이지입니다. 각 카드에 마우스를 올리면 배경색이 바뀌고 테두리가 사라지면서 시각적인 인터랙션을 제공합니다.
 
-![Uploading bandicam_2025_06_04_16_47_12_074_V1.gif…]()
+
+🚀 프로젝트 소개
+이 프로젝트는 CSS의 border-radius 속성을 불규칙하게 사용하여 독특하고 유기적인 모양을 만듭니다. 여기에 애니메이션과 호버(hover) 효과를 적용하여 동적인 디자인을 구현한 웹 페이지입니다. 각 카드에 마우스를 올리면 배경색이 바뀌고 테두리가 사라지면서 시각적인 인터랙션을 제공합니다
 
 
 
@@ -21,7 +21,7 @@ Google Fonts: 'Raleway' 폰트 사용
 
 Bash
 
-git clone https://github.com/당신의-깃허브-아이디/더블-보더-레디어스-애니메이션.git
+git clone https://github.com/kita-Art/.git
 다운로드된 폴더로 이동합니다.
 
 index.html 파일을 웹 브라우저에서 엽니다.
